@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul R Yadav</h1>
-<h3 align="center">A passionate Learner</h3>
+<h3 align="center">A Passionate Learner</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/coding-programming-concept-illustration_188398-765.jpg?w=2000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raahul131&label=Profile%20views&color=0e75b6&style=flat" alt="raahul131" /> </p>
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahulRa131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulra131" height="30" width="40" /></a>
+<a href="https://twitter.com/rahulRa131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulRa131" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-ray-yadav-3772ba1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-ray-yadav-3772ba1b4" height="30" width="40" /></a>
 <a href="https://instagram.com/its_rahulray7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_rahulray7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahul0131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul0131" height="30" width="40" /></a>
