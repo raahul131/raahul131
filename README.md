@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raaaaaahul R Yadav</h1>
+<h1 align="center">Hi 👋, I'm Rahul R Yadav</h1>
 <h3 align="center">A Passionate Learner</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/coding-programming-concept-illustration_188398-765.jpg?w=2000">
 
