@@ -34,8 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=raahul131&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats"/>
-
+  <img src="https://streak-stats.demolab.com?user=raahul131&theme=tokyonight-duo&hide_border=true" />
 
 </div>
 
