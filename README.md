@@ -34,7 +34,9 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=raahul131&theme=tokyonight-duo&hide_border=true" />
+
+<!-- 🔥 UPDATED GITHUB STREAK -->
+<img src="https://streak-stats.demolab.com?user=raahul131&theme=tokyonight-duo&hide_border=true" />
 
 </div>
 
@@ -84,7 +86,7 @@
 
 ### 🌐 Additional Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase," alt="Additional Skills" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Additional Skills" />
 </div>
 
 ---
