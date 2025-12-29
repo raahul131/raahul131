@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Solving+problems+with+code+%E2%98%95;Frontend+Developer;Algorithm+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=raahul131&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/raahul131?style=for-the-badge&color=3b82f6" alt="Followers" />
