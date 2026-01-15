@@ -1,5 +1,6 @@
 # <div align="center">👨‍💻 Rahul R. Yadav</div>
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Solving+problems+with+code+%E2%98%95;Frontend+Developer;Algorithm+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
